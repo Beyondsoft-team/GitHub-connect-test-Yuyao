@@ -1,6 +1,6 @@
 ﻿// Copyright (c) Microsoft Corporation. All rights reserved.
 // Licensed under the MIT license.
-
+GitHub-connect-test-Yuyao
 using AOT;
 using Microsoft.AppCenter.Unity.Crashes;
 using System.Threading;
