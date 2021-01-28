@@ -1,6 +1,7 @@
 // Copyright (c) Microsoft Corporation. All rights reserved.
 // Licensed under the MIT license.
 GitHub-connect-test-Yuyao
+GitHub-connect-test-Yuyao
 using Assets.AppCenter.Plugins.Android.Utility;
 using Microsoft.AppCenter.Unity;
 using Microsoft.AppCenter.Unity.Distribute;
